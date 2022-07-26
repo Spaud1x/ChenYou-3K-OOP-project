@@ -7,6 +7,7 @@
 # Listing of features
 > Basic structure: 
 > 30 balls appear one by one for the user to click with his mouse quickly before they disappear; results displayed on screen via a score system
+> 
 > Add-ons:
 > - a timer
 > - a crosshair
