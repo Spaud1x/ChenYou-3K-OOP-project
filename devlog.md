@@ -11,7 +11,8 @@
 
 ## Week 5 (26 Jul - 1 Aug)
 
-testing
+- Coming up of preliminary game ideas and details
+- 
 ## Week 6 (2 Aug - 8 Aug)
 
 ## Week 7 (9 Aug - 15 Aug)
