@@ -1,18 +1,25 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> An aim training game program that develops and improves the user's aim by shooting down disappearing balls as fast and accurate as possible 
 
 #Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
+> Create an aim training platform with a score system to display a user's aim training performance
 
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> Basic structure: 
+> 30 balls appear one by one for the user to click with his mouse quickly before they disappear; results displayed on screen via a score system
+> Add-ons:
+> - a timer
+> - a crosshair
+> - player's gun
+> - player's movement to incorporate strafing, or move around a map
+> - a map
+> - training dummies
 
 # External Scanning
 > Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> Training aim, reaction time and speed for FPS games like Valorant
 
 # Skills that my project requires me to pick up
 > List out the skills that you are not familiar with that is necessary due to the project scope.
