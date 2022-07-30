@@ -17,13 +17,12 @@
 > - training dummies
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
-
+> Nil as of yet
 # Listing of Key Use Cases
 > Training aim, reaction time and speed for FPS games like Valorant
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> Player and camera movement coding
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
