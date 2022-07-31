@@ -14,6 +14,9 @@ Plan
 - Coming up of preliminary game ideas and details
 - Setting up basic foundation in unity using C#
 
+Problems
+- Code referenced is outdated, very hard to debug
+
 Done so far
 - Basic first person player movement
 - Basic Gun script coding and modelling 
