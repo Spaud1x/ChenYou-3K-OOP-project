@@ -19,9 +19,20 @@ Problems
 
 Done so far
 - Basic first person player movement
-- Basic Gun script coding and modelling 
+- Basic Gun script coding and modelling which includes shooting, reloading, gun switching, gun animations, gun particle systems and sound effects
 ## Week 6 (2 Aug - 8 Aug)
+Plan
+- Set up the disappearing random targets 
+- Improve on movement and other animations or effects
+- Set up a UI which can track aim progress
 
+Problems
+- A lot of errors, have to look through all my code again and debug line by line
+
+Done so far
+- Added a knife script and knife
+- Set up the disappearing targets
+- Improved on gun switching bugs
 ## Week 7 (9 Aug - 15 Aug)
 
 ## Week 8 (16 Aug - 22 Aug)
