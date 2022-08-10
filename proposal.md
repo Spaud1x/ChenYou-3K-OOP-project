@@ -19,6 +19,7 @@
 # External Scanning
 > Ammo and reloading - Unity tutorial https://www.youtube.com/watch?v=kAx5g9V5bcM&t=312s  
 > Weapon switching - Unity tutorial https://www.youtube.com/watch?v=Dn_BUIVdAPg&t=306s
+> UI Volume Slider using AUDIO MIXERS | Unity Audio - Unity tutorial https://www.youtube.com/watch?v=C1gCOoDU29M
 # Listing of Key Use Cases
 > Training aim, reaction time and speed for FPS games like Valorant
 
