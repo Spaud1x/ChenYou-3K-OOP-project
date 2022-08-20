@@ -34,8 +34,20 @@ Done so far
 - Set up the disappearing targets
 - Improved on gun switching bugs
 ## Week 7 (9 Aug - 15 Aug)
-
+- Did more bug fixing
+- Tried to create some sort of tutorial obstacle course but decided to leave it at the end
 ## Week 8 (16 Aug - 22 Aug)
+Plan
+- Create the score system and a button to activate the target which starts the whole process
+- Add start menu, settings and pause menu UI
+
+Problems
+- Have a lot of variables, prefabs and objects so I have to rearrange all the clutter
+- Scripts giving out errors even though it is working
+
+Done so far
+- Menu and options page
+- Button which starts the aimtrainer process
 
 ## Week 9 (23 Aug - 29 Aug)
 
