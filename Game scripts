@@ -1,4 +1,4 @@
-*Player movement script*
+#Player movement script
 
 using System.Collections;
 using System.Collections.Generic;
