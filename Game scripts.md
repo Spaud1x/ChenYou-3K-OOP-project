@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class FPSPlayerMovement : MonoBehaviour
 {
-    
    
     [Header("Movement")]
     public float moveSpeed; //player speed
