@@ -46,11 +46,22 @@ Problems
 - Scripts giving out errors even though it is working
 
 Done so far
-- Menu and options page
+- Escape Menu and options page
 - Button which starts the aimtrainer process
 
 ## Week 9 (23 Aug - 29 Aug)
+Done so far
+- Timer for aim trainer
+- Map building
+- Target practice
+- Tutorial level
+- Save and load function
+- Death menu
 
 ## Week 10 (30 Aug - 5 Sep)
+Done so far
+- Bug fixing
+- Play testing
+- Animation rigging
 
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
